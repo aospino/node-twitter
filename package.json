@@ -1,7 +1,7 @@
 {
-  "name": "troll",
+  "name": "node-twitter",
   "version": "1.0.0",
-  "description": "alskdjflskdjf",
+  "description": "A baseline project for connecting to the Twitter Streaming API from a simple Node.js project",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -3,5 +3,6 @@ module.exports = {
     consumerSecret: '',
     accessTokenKey: '',
     accessTokenSecret: '',
-    hashTag: '#foo'
+    trackPhrase: '#foo',
+    screenname: 'someone'
 };
